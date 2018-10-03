@@ -1,0 +1,4 @@
+body {
+  transition: all .5s ease .5s;
+  background: url(../img/test.jpg?cf9fada405c8c04bfd199ebf40777645);
+}
